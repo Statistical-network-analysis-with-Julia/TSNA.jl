@@ -31,7 +31,7 @@ export tEdgeDuration, tVertexDuration
 export tEdgePersistence, tTurnover
 
 # Contact sequences
-export ContactSequence, as_contact_sequence
+export Contact, ContactSequence, as_contact_sequence
 export tieDecay, tieVolatility
 
 # Aggregation
